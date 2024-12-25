@@ -1,0 +1,539 @@
+{
+    "ambulance 🚑": [
+        "Please call an ambulance immediately, it's an emergency situation.",
+        "Is the ambulance on its way? We need urgent medical assistance.",
+        "How long will the ambulance take to arrive? The patient is in critical condition.",
+        "We need an ambulance for the emergency, please hurry."
+    ],
+    "appointment 📅": [
+        "I need to schedule an appointment with the doctor as soon as possible.",
+        "Can you check if there are any available slots for today? It's urgent.",
+        "When is my next appointment? I need to plan my day accordingly.",
+        "I want to reschedule my appointment to a later date. Can you help?"
+    ],
+    "allergy 🤧": [
+        "I'm having an allergic reaction to the medication",
+        "Do you have my allergy information on file?",
+        "This rash might be from an allergy, can you check?",
+        "I need my allergy medication right now"
+    ],
+    "antibiotic 💊": [
+        "When should I take the antibiotics?",
+        "Are these antibiotics strong enough?",
+        "How long do I need to take these antibiotics?",
+        "Do these antibiotics have any side effects?"
+    ],
+    "asthma 😮‍💨": [
+        "I need my asthma inhaler quickly",
+        "Is this an asthma attack?",
+        "My asthma is getting worse",
+        "Where is my asthma medication?"
+    ],
+    "bed 🛏️": [
+        "Can you help me adjust my bed? I need to be more comfortable.",
+        "I need to elevate my headrest to help with my breathing.",
+        "The bed feels uncomfortable, can it be fixed or adjusted?",
+        "I need to change the bed position to relieve my back pain."
+    ],
+    "bathroom 🚻": [
+        "I need assistance to use the bathroom, can someone help me?",
+        "Could you bring me a bedpan? I can't get up right now.",
+        "Where is the nearest restroom? I need to go urgently.",
+        "I feel weak; can you help me get to the bathroom safely?"
+    ],
+    "blood 🩸": [
+        "I need a blood test to check my hemoglobin levels.",
+        "Can you check my blood sugar levels? I feel dizzy.",
+        "When will the blood test results be ready? I need to know soon.",
+        "Is this my blood pressure reading? It seems higher than usual."
+    ],
+    "breathing 😤": [
+        "I'm having trouble breathing, can you check my oxygen levels?",
+        "My breathing is labored, can you help me with my inhaler?",
+        "I feel short of breath, can you assist me with my oxygen mask?",
+        "I need help with my breathing exercises, can you guide me?"
+    ],
+    "bandage 🩹": [
+        "Can you change my bandage? It needs to be replaced.",
+        "Is the bandage too tight? It's causing discomfort.",
+        "When should this bandage be changed next?",
+        "The bandage is coming loose, can someone fix it?"
+    ],
+    "chest-pain": [
+        "I'm experiencing severe chest pain, please help.",
+        "The chest pain is spreading to my arm.",
+        "How long will this chest pain last?",
+        "Can you give me something for this chest pain?"
+    ],
+    "cancer 🎗️": [
+        "I need to discuss my cancer treatment options with the doctor.",
+        "Can you provide more information about my cancer diagnosis?",
+        "I'm worried about my cancer prognosis, can you help me understand?",
+        "When is my next chemotherapy session scheduled?"
+    ],
+    "cafeteria 🍽️": [
+        "Where is the hospital cafeteria located?",
+        "What time does the cafeteria open?",
+        "Can I get food from the cafeteria?",
+        "Is the cafeteria serving special diet meals?"
+    ],
+    "catheter 🏥": [
+        "The catheter is uncomfortable",
+        "When can the catheter be removed?",
+        "I think there's an issue with my catheter",
+        "Can someone check my catheter?"
+    ],
+    "clinic 🏥": [
+        "Which clinic should I go to?",
+        "Is the clinic open today?",
+        "Can I schedule a clinic appointment?",
+        "Where is the specialty clinic located?"
+    ],
+
+    "doctor 🩺": [
+        "When can I see the doctor? I have some urgent questions.",
+        "I need to discuss my test results with the doctor as soon as possible.",
+        "Can I have a second opinion from another doctor? I want to be sure.",
+        "When will the doctor do the rounds? I need to speak with them."
+    ],
+    "dialysis": [
+        "When is my next dialysis session?",
+        "How long will the dialysis take today?",
+        "I'm not feeling well after dialysis",
+        "Can you check my dialysis schedule?"
+    ],
+    "diabetes": [
+        "I need to check my diabetes readings",
+        "When should I take my diabetes medication?",
+        "My diabetes seems uncontrolled today",
+        "Can you help with my diabetes management?"
+    ],
+    "dressing 🩹": [
+        "The wound dressing needs to be changed",
+        "Is this dressing waterproof?",
+        "When should this dressing be replaced?",
+        "The dressing is coming loose"
+    ],
+    "discharge": [
+        "When will I be discharged from the hospital? I need to make arrangements.",
+        "What are the discharge procedures? I want to be prepared.",
+        "Do I need any documents for discharge? I want to have everything ready.",
+        "Can the nurse explain my discharge plan? I need to understand it."
+    ],
+    "diet 🍽️": [
+        "What food is allowed in my diet? I need to follow the guidelines.",
+        "Can I have a different meal option? This one doesn't suit me.",
+        "When is my next meal scheduled? I'm feeling hungry.",
+        "I need help with my special diet requirements, can you assist?"
+    ],
+    "dizziness 😵": [
+        "I'm feeling dizzy, can you check my blood pressure?",
+        "The room is spinning, I need help.",
+        "I feel lightheaded and dizzy, what should I do?",
+        "Can you help me sit down? I'm feeling dizzy."
+    ],
+    "dose 💊": [
+        "What's the dose for this medication?",
+        "I think I missed a dose, what should I do?",
+        "Can I take a double dose to catch up?",
+        "When should I take the next dose?"
+    ],
+    "emergency 🚨": [
+        "Please take me to the emergency room immediately, I can't wait.",
+        "This is a critical emergency, we need help right now.",
+        "I need immediate medical attention, please hurry.",
+        "Call the emergency team quickly, the situation is getting worse."
+    ],
+    "exercise 🏋️": [
+        "Can you help me with my physical therapy exercises?",
+        "I need guidance on the right exercises for my condition.",
+        "When can I start my exercise routine? I want to recover quickly.",
+        "Can you show me how to do these exercises correctly?"
+    ],
+    "endoscopy 📹": [
+        "When is my endoscopy scheduled?",
+        "Do I need to fast before the endoscopy?",
+        "How long does an endoscopy procedure take?",
+        "What should I expect during the endoscopy?"
+    ],
+    "fever 🤒": [
+        "I think I have a fever, can you check my temperature?",
+        "Can you check my temperature? I feel hot and shivery.",
+        "I feel hot and shivery, what should I do to reduce my fever?",
+        "What should I do to reduce my fever? I feel very uncomfortable."
+    ],
+    "fracture 🦴": [
+        "I think I may have fractured my arm, can you check it?",
+        "How do we treat a bone fracture? I need to know the procedure.",
+        "Is a cast necessary for this fracture? I want to be sure.",
+        "When can I start moving my fractured limb? I want to recover quickly."
+    ],
+    "fainting": [
+        "I feel like I'm going to faint.",
+        "What caused me to faint earlier?",
+        "How can I prevent fainting spells?",
+        "Should I lie down if I feel faint?"
+    ],
+    "gastric 🤢": [
+        "I'm having severe gastric pain.",
+        "Can I get something for my gastric issues?",
+        "When will the gastric medication start working?",
+        "The gastric symptoms are getting worse."
+    ],
+    "glucose": [
+        "Can you check my glucose levels?",
+        "When should I monitor my glucose next?",
+        "The glucose reading seems high today.",
+        "I need my glucose testing kit."
+    ],
+    "gown": [
+        "Can I get a clean hospital gown?",
+        "This gown is uncomfortable, can I have a different one?",
+        "How do I properly wear this gown?",
+        "The gown is too small, do you have a larger size?"
+    ],
+
+    "headache 🤕": [
+        "I have a severe headache, can you give me something for the pain?",
+        "The headache is getting worse, what should I do?",
+        "Can you check my blood pressure? I think it's causing the headache.",
+        "I feel nauseous with this headache, what should I do?"
+    ],
+    "help 🆘": [
+        "Can someone help me get up? I can't do it on my own.",
+        "I need assistance with walking, can you support me?",
+        "Could you help me with my meal? I can't reach the food.",
+        "I need help reaching the call button, it's too far away."
+    ],
+    "hospital 🏥": [
+        "Which hospital am I in? I need to inform my family.",
+        "Can you provide directions to the hospital entrance?",
+        "Is this hospital part of my insurance network?",
+        "Can I get a copy of my medical records from the hospital?"
+    ],
+    "insurance 🏦": [
+        "Does my insurance cover this treatment? I need to confirm.",
+        "Can I get an estimate of the medical costs? I need to plan my finances.",
+        "Where do I submit my insurance documents? I want to make sure everything is in order.",
+        "Does my insurance cover emergency visits? I need to know."
+    ],
+    "injection 💉": [
+        "When is my next injection due?",
+        "Can you give me the injection now?",
+        "I'm nervous about the injection, can you explain the procedure?",
+        "Is there a different injection site we can use?"
+    ],
+    "infection 🦠": [
+        "I think I have an infection, can you check this redness?",
+        "Is this redness a sign of infection? I'm worried.",
+        "What antibiotics are suitable for my infection? I need to start treatment.",
+        "How do I prevent infections after surgery? I want to avoid complications."
+    ],
+    "injury 🤕": [
+        "I’ve injured my leg, can someone clean and bandage this wound?",
+        "Can someone clean and bandage this wound? It's bleeding.",
+        "What’s the best way to treat this injury? I want to recover quickly.",
+        "Do I need an X-ray for this injury? It feels serious."
+    ],
+    "lab 🧪": [
+        "Where is the laboratory located? I need to get some tests done.",
+        "Can I get a blood test done today? I need the results soon.",
+        "When will the lab results be ready? I'm anxious to know.",
+        "Do I need to fast before going to the lab? I want to be prepared."
+    ],
+
+    "medicine 💊": [
+        "When should I take my next dose of medicine? I don't want to miss it.",
+        "Can you explain the side effects of this medicine? I'm concerned.",
+        "I think I missed my medicine, what should I do now?",
+        "Is this medicine suitable for my condition? I need to be sure."
+    ],
+    "massage 💆": [
+        "Can I get a massage for my sore muscles? It's been painful.",
+        "When is my massage therapy session scheduled? I need to relax.",
+        "Can you recommend a good massage therapist? I want to feel better.",
+        "I feel tense; can you help me with a massage?"
+    ],
+    "meal 🍽️": [
+        "Can I have my meal now? I'm feeling hungry.",
+        "Is this meal suitable for my dietary restrictions?",
+        "When is the next meal scheduled? I want to be prepared.",
+        "Can I get a different meal option? This one doesn't suit me."
+    ],
+    "nurse": [
+        "Can the nurse check my blood pressure? I feel lightheaded.",
+        "I need to speak with a nurse urgently, it's important.",
+        "When will the nurse administer my medication? I need it soon.",
+        "Could the nurse help me change my dressing? It's coming off."
+    ],
+    "pain": [
+        "The pain is sharp and constant, I need relief.",
+        "I feel pain in my chest, can you check it out?",
+        "Can I get stronger pain relief? This isn't working.",
+        "The pain has moved to my back, what should I do?"
+    ],
+    "prescription 💊": [
+        "Could you refill my prescription? I'm running low on medication.",
+        "Is this medicine part of my prescription? I need to confirm.",
+        "Can the doctor update my prescription? I need a higher dose.",
+        "How often should I take this prescription medicine? I forgot."
+    ],
+    "sick 🤢🌡️": [
+        "I'm feeling nauseous and dizzy, can you help?",
+        "I think I have a fever, can you check my temperature?",
+        "I'm feeling worse than before, what should I do?",
+        "I don't feel well; can you check on me and see what's wrong?"
+    ],
+    "surgery": [
+        "When is my surgery scheduled? I need to prepare.",
+        "What precautions should I take before surgery? I want to be ready.",
+        "Can you explain the surgery procedure to me? I'm nervous.",
+        "What are the post-surgery care instructions? I need to follow them."
+    ],
+    "therapist 🧑‍⚕️": [
+        "When is my session with the physical therapist? I need to know.",
+        "Can the therapist suggest exercises for my condition? I want to improve.",
+        "I’d like to schedule a counseling session with the therapist, can you help?",
+        "The therapist helped me with my mobility exercises, can I get more sessions?"
+    ],
+    "water 💧": [
+        "I need some water to take my medicine, can you bring me a glass?",
+        "Can I have a glass of warm water? My throat is sore.",
+        "Please bring me some cold water, I'm feeling very thirsty.",
+        "I'm feeling dehydrated; I need water immediately."
+    ],
+    "x-ray": [
+        "Do I need an X-ray for this injury? It feels serious.",
+        "How long will the X-ray procedure take? I need to plan my day.",
+        "Where is the X-ray department located? I need to go there.",
+        "When will my X-ray results be ready? I need to know the diagnosis."
+    ],
+    "oxygen 🧴": [
+        "I need help with my oxygen mask, it's not fitting properly.",
+        "Is my oxygen level normal? I feel short of breath.",
+        "Can someone adjust the oxygen flow? It's too low.",
+        "I’m having trouble breathing; is there oxygen available?"
+    ],
+    "diet 🍽️": [
+        "What food is allowed in my diet? I need to follow the guidelines.",
+        "Can I have a different meal option? This one doesn't suit me.",
+        "When is my next meal scheduled? I'm feeling hungry.",
+        "I need help with my special diet requirements, can you assist?"
+    ],
+    "discharge": [
+        "When will I be discharged from the hospital? I need to make arrangements.",
+        "What are the discharge procedures? I want to be prepared.",
+        "Do I need any documents for discharge? I want to have everything ready.",
+        "Can the nurse explain my discharge plan? I need to understand it."
+    ],
+    "room 🛏️": [
+        "Can I change my room to a quieter one? It's too noisy here.",
+        "When will my room be cleaned? It's getting messy.",
+        "Is there a private room available? I need some privacy.",
+        "Can I have an extra blanket for my room? It's cold."
+    ],
+    "test": [
+        "What tests are scheduled for me today? I need to know.",
+        "When will the test results be available? I'm anxious to find out.",
+        "Do I need to prepare for the test? I want to be ready.",
+        "Are there any additional tests required? I want to be sure."
+    ],
+    "insurance": [
+        "Does my insurance cover this treatment? I need to confirm.",
+        "Can I get an estimate of the medical costs? I need to plan my finances.",
+        "Where do I submit my insurance documents? I want to make sure everything is in order.",
+        "Does my insurance cover emergency visits? I need to know."
+    ],
+    "family 👪": [
+        "Can my family visit me today? I miss them.",
+        "When is visiting time? I want to let my family know.",
+        "Can I have a call with my family? I need to talk to them.",
+        "Is there a place where my family can wait? I want them to be comfortable."
+    ],
+    "fever 🤒": [
+        "I think I have a fever, can you check my temperature?",
+        "Can you check my temperature? I feel hot and shivery.",
+        "I feel hot and shivery, what should I do to reduce my fever?",
+        "What should I do to reduce my fever? I feel very uncomfortable."
+    ],
+    "fracture 🦴": [
+        "I think I may have fractured my arm, can you check it?",
+        "How do we treat a bone fracture? I need to know the procedure.",
+        "Is a cast necessary for this fracture? I want to be sure.",
+        "When can I start moving my fractured limb? I want to recover quickly."
+    ],
+    "infection 🦠": [
+        "I think I have an infection, can you check this redness?",
+        "Is this redness a sign of infection? I'm worried.",
+        "What antibiotics are suitable for my infection? I need to start treatment.",
+        "How do I prevent infections after surgery? I want to avoid complications."
+    ],
+    "injury": [
+        "I’ve injured my leg, can someone clean and bandage this wound?",
+        "Can someone clean and bandage this wound? It's bleeding.",
+        "What’s the best way to treat this injury? I want to recover quickly.",
+        "Do I need an X-ray for this injury? It feels serious."
+    ],
+    "medication": [
+        "When should I take my next dose of medication? I don't want to miss it.",
+        "Are there side effects to this medication? I need to know.",
+        "Can I take this medication with food? I want to avoid stomach issues.",
+        "Is this medication safe for my condition? I need to be sure."
+    ],
+    "numbness 🦶🖐️": [
+        "I’m feeling numbness in my hands, is this a serious issue?",
+        "Is this numbness a serious issue? I'm worried.",
+        "What could be causing this numbness? I need to find out.",
+        "The numbness has spread to my arm, what should I do?"
+    ],
+    "operation": [
+        "When is my operation scheduled? I need to prepare.",
+        "What should I do to prepare for the operation? I want to be ready.",
+        "What are the risks involved in the operation? I need to know.",
+        "How long will the operation take? I want to inform my family."
+    ],
+    "pain 😖": [
+        "The pain is sharp and unbearable, I need relief.",
+        "Is there anything stronger for pain relief? This isn't working.",
+        "Can you check why the pain hasn’t subsided? I'm worried.",
+        "The pain worsens when I move, what should I do?"
+    ],
+    "prescription": [
+        "Can you refill my prescription? I'm running low on medication.",
+        "Is this medication part of my prescription? I need to confirm.",
+        "What’s the dosage for my prescription? I forgot.",
+        "How long should I continue this prescription? I need to know."
+    ],
+    "rehabilitation 🏋️‍♂️": [
+        "When does my rehabilitation session start? I need to know.",
+        "What exercises should I do for rehabilitation? I want to improve.",
+        "How long will rehabilitation take? I need to plan my recovery.",
+        "Can I recover fully with rehabilitation? I want to be sure."
+    ],
+    "room": [
+        "Can I change to a private room? I need some privacy.",
+        "The room temperature is too cold, can you adjust it?",
+        "Is there Wi-Fi available in this room? I need to stay connected.",
+        "Can I have a room closer to the nurses’ station? I need assistance."
+    ],
+    "stress 😰": [
+        "I’m feeling a lot of stress lately, can I talk to someone about it?",
+        "Can I talk to someone about my stress? I need help.",
+        "What can I do to reduce stress? I want to feel better.",
+        "Is stress affecting my recovery? I need to know."
+    ],
+    "surgery": [
+        "What’s the recovery time for the surgery? I need to plan ahead.",
+        "Are there risks to the surgery? I want to be informed.",
+        "When will the surgeon arrive? I have some questions.",
+        "Do I need anesthesia for the surgery? I want to be prepared."
+    ],
+    "test": [
+        "When are my diagnostic tests scheduled? I need to know.",
+        "How do I prepare for the MRI test? I want to be ready.",
+        "Are there risks with this test? I need to be informed.",
+        "What’s the cost of the test? I need to plan my finances."
+    ],
+    "therapy": [
+        "When is my therapy session scheduled? I need to plan my day.",
+        "Can you recommend a good therapist for my condition? I need help.",
+        "How many therapy sessions do I need? I want to recover quickly.",
+        "Can I continue therapy at home? I want to maintain my progress."
+    ],
+    "treatment": [
+        "What’s the best treatment for my condition? I need advice.",
+        "Can you explain the treatment plan to me? I want to understand.",
+        "Are there any side effects to this treatment? I need to be informed.",
+        "How long will the treatment take? I need to plan my recovery."
+    ],
+    "tumor": [
+        "I need to discuss my tumor treatment options with the doctor.",
+        "Can you provide more information about my tumor diagnosis?",
+        "I’m worried about my tumor prognosis, can you help me understand?",
+        "When is my next chemotherapy session scheduled?"
+    ],
+    "ultrasound": [
+        "Do I need an ultrasound for this condition? I want to be sure.",
+        "How long does an ultrasound take? I need to plan my day.",
+        "When will the ultrasound results be ready? I'm anxious to know.",
+        "Is there any preparation needed for the ultrasound? I want to be ready."
+    ],
+    "urine 🚽": [
+        "Can you check my urine sample for any infections?",
+        "I need to provide a urine sample for testing, can you help?",
+        "When will the urine test results be ready? I need to know soon.",
+        "Is this the urine sample collection area? I want to confirm."
+    ],
+    "vaccine 💉": [
+        "Is the flu vaccine available here? I want to get vaccinated.",
+        "When should I take my next vaccine dose? I need to know.",
+        "Are there side effects to this vaccine? I want to be informed.",
+        "Can you schedule my vaccine appointment? I want to be prepared."
+    ],
+    "vital signs": [
+        "Can you check my blood pressure and heart rate? I feel unwell.",
+        "Are my vital signs normal? I need to know.",
+        "What do these vital signs indicate? I want to understand.",
+        "Can someone monitor my vital signs overnight? I feel anxious."
+    ],
+    "vomiting 🤮": [
+        "I feel nauseous and might vomit, can you help me?",
+        "I can't stop vomiting, is this a serious issue?",
+        "What should I do to stop the vomiting? I'm feeling weak.",
+        "I vomited after taking my medication, is that normal?"
+    ],
+    "wound 🩹": [
+        "Can you clean and dress this wound? It's bleeding.",
+        "The wound is swollen and red, is it infected?",
+        "How do I prevent this wound from getting infected? I want to avoid complications.",
+        "When should I remove the stitches from the wound? I need to know."
+    ],
+    "wheelchair 🦽": [
+        "Can you help me with the wheelchair? I can't walk right now.",
+        "I need a wheelchair to move around, can you provide one?",
+        "Can I get a motorized wheelchair for better mobility?",
+        "I need assistance to transfer to the wheelchair, can you help?"
+    ],
+    "weight ⚖️": [
+        "Can you help me weigh myself? I want to track my progress.",
+        "Is my weight within the healthy range? I need to know.",
+        "How can I maintain a healthy weight? I want to stay fit.",
+        "Can you recommend a diet plan to help me lose weight?"
+    ],
+    "yawn": [
+        "I keep yawning; is it a sign of something serious?",
+        "Why am I feeling so drowsy and yawning all the time?",
+        "Can fatigue cause excessive yawning? I need to know.",
+        "I’m yawning too much; could it be a breathing issue? I want to be sure."
+    ],
+    "yoga 🧘": [
+        "Can I start yoga for my back pain? I heard it helps.",
+        "When can I begin yoga exercises? I want to improve my flexibility.",
+        "Can you recommend a yoga instructor for beginners? I need guidance.",
+        "I feel stressed; can you help me with some yoga poses?"
+    ],
+    "yogurt 🥣": [
+        "Is yogurt good for digestion? I want to improve my gut health.",
+        "Can I eat yogurt with my medication? I need to be sure.",
+        "What are the benefits of eating yogurt daily? I want to know.",
+        "Can I have yogurt with my breakfast? I need a healthy option."
+    ],
+    "zinc": [
+        "Is zinc supplementation good for my condition? I want to know.",
+        "What foods are rich in zinc? I want to include them in my diet.",
+        "Can I take zinc tablets with my medication? I need to be sure.",
+        "Do I need a prescription for zinc supplements? I want to find out."
+    ],
+    "zanex": [
+        "Can I take Zanex for my anxiety? I need something to calm down.",
+        "Is Zanex safe for long-term use? I want to be cautious.",
+        "What are the side effects of Zanex? I need to know.",
+        "Can you explain how Zanex works? I want to understand."
+    ],
+    "zoloft": [
+        "Can I take Zoloft for my depression? I need help.",
+        "Is Zoloft effective for anxiety as well? I want to know.",
+        "What are the common side effects of Zoloft? I need to be informed.",
+        "Can you explain how Zoloft works? I want to understand."
+    ]
+}
